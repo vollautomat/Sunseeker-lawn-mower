@@ -1,5 +1,10 @@
 # Sunseeker Lawn Mower
 
+<img width="709" alt="Startseite" src="https://github.com/user-attachments/assets/67865c5c-78e4-4eb8-93f3-5a420c1300a2" />
+
+*Hier noch mit etwas unglücklich eingestellter Mährichtung*
+
+
 ## Vorbemerkung
 
 Dieses Projekt ist der Versuch einige Schwächen der von Sunseeker mitgelieferen App zu kompensieren.
