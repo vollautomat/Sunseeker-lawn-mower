@@ -1,0 +1,13 @@
+/.vs
+/Sunseeker.Server/Sunseeker.Server.csproj.user
+/Sunseeker.Server/Sunseeker.Server.http
+/Sunseeker.Server/appsettings.Development.json
+/Sunseeker.Server/bin
+/Sunseeker.Server/obj
+/sunseeker.client/obj
+/sunseeker.client/sunseeker.client.esproj.user
+/Sunseeker.Server/.config/dotnet-tools.json
+/Sunseeker.Server/Properties/PublishProfiles/FolderProfile.pubxml
+/Sunseeker.Server/Properties/PublishProfiles/FolderProfile.pubxml.user
+/Sunseeker.Server/usersetting.json
+/sunseeker.client/package-lock.json
