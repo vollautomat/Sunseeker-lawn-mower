@@ -1,6 +1,6 @@
 # Sunseeker Lawn Mower
 
-<img width="713" height="1147" alt="Startseite" src="https://github.com/user-attachments/assets/f7ae803d-2dec-4890-bee9-1988eaa5f1f5" />
+<img width="696" height="1135" alt="Startseite" src="https://github.com/user-attachments/assets/4e5aebe4-e6ad-4b70-a46c-f967dd290b0a" />
 
 ## Vorbemerkung
 
