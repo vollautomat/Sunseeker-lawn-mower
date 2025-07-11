@@ -1,9 +1,6 @@
 # Sunseeker Lawn Mower
 
-<img width="709" alt="Startseite" src="https://github.com/user-attachments/assets/67865c5c-78e4-4eb8-93f3-5a420c1300a2" />
-
-*Hier noch mit etwas unglücklich eingestellter Mährichtung*
-
+<img width="713" height="1147" alt="Startseite" src="https://github.com/user-attachments/assets/f7ae803d-2dec-4890-bee9-1988eaa5f1f5" />
 
 ## Vorbemerkung
 
