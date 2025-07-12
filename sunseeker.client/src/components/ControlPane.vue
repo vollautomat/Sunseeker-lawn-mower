@@ -38,7 +38,7 @@
 				<label>Active: {{currentAreaText}}</label>
 			</div>
 			<div>
-				<label>Wether: {{rainStatusText}}</label>
+				<label>Weather: {{rainStatusText}}</label>
 				<label v-if="rainStatus == 2">, {{rainCountdown}} minutes</label>
 			</div>
 		</div>
